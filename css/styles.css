@@ -19,3 +19,17 @@
   text-align: center;
   color: black;
 }
+
+/* Services section styling*/
+
+.services {
+  background-position: center;
+  text-align: center;
+  color: white;
+}
+
+.carousel-item {
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
+}
