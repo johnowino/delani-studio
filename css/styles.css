@@ -1,0 +1,15 @@
+/* Welcome section styling*/
+
+.carousel-item {
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
+}
+
+.carousel-container {
+  background-position: center;
+  text-align: center;
+  color: white;
+}
+
+/* About us section styling*/
