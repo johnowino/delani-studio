@@ -13,3 +13,9 @@
 }
 
 /* About us section styling*/
+
+.about {
+  background-position: center;
+  text-align: center;
+  color: black;
+}
