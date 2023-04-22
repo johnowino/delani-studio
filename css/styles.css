@@ -48,8 +48,30 @@
 /* Portfolio section styling for later*/
 
 /* Contact us section styling */
-.form {
+
+.contact-us {
   background-position: center;
-  text-align: left;
+  text-align: center;
   color: white;
 }
+
+
+/* making the form transparent */ 
+div.background {
+  background: url(assets/background/c_image.jg) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 30px;
+  /*background-color: white;*/
+  border: 1px solid black;
+  opacity: 0.3;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color:white;
+}
+

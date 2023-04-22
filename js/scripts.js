@@ -1,15 +1,15 @@
-// Clear input fiels after form submission //
+// Clear input fields after form submission and capture form input //
 const submit = document.getElementById('submit');
 
 submit.addEventListener('click', function handleClick(event) {
-  // 👇️ if you are submitting a form (prevents page reload)
+  // 👇️ when submitting the form (prevents page reload)
   event.preventDefault();
 
   const namesInput = document.getElementById('names');
   const emailInput = document.getElementById('email');
   const messageInput = document.getElementById('message');
 
-  // Send value to server
+  // Send values to server
   console.log(namesInput.value);
   console.log(emailInput.value);
   console.log(messageInput.value);
