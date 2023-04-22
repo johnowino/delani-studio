@@ -20,3 +20,22 @@ submit.addEventListener('click', function handleClick(event) {
   messageInput.value = '';
 
 });
+
+// Toggle through What we Do section to show/hide text //
+$(document).ready(function() {
+  $("#design").click(function() {
+    $("#designDescription").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#development").click(function() {
+    $("#developmentDescription").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#productmanagement").click(function() {
+    $("#productDescription").toggle();
+  });
+});

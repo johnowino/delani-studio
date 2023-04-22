@@ -83,6 +83,19 @@ div.transbox p {
   }
 
   /* Hide the What we Do icons*/ 
-    .hide {
-    display: none;
+
+.hide {
+  display: none;
+}
+
+ #designDescription {
+    display:none;
+  }
+
+  #developmentDescription {
+    display:none;
+  }
+
+  #productDescription {
+    display:none;
   }
