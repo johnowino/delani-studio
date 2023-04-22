@@ -43,7 +43,7 @@
 
 .container {
   text-align: center;
- }
+}
 
 /* Portfolio section styling for later*/
 
@@ -78,7 +78,7 @@ div.transbox p {
   color:white;
 }
 
-  .row {
+.row {
     padding: 10px 10px 10px 10px;
   }
 
@@ -88,52 +88,52 @@ div.transbox p {
   display: none;
 }
 
- #designDescription {
-    display:none;
-  }
+#designDescription {
+  display:none;
+}
 
-  #developmentDescription {
-    display:none;
-  }
+#developmentDescription {
+  display:none;
+}
 
-  #productDescription {
-    display:none;
-  }
+#productDescription {
+  display:none;
+}
 
   /* Hide the project names to allow pop-up with hover */
   
  
-  #black1 {
-    display:none;
-  }
+#black1 {
+  display:none;
+}
 
-  #ontariosecurity {
-    display:none;
-  }
+#ontariosecurity {
+  display:none;
+}
 
-  #art {
-    display:none;
-  }
+#art {
+  display:none;
+}
 
-  #series {
-    display:none;
-  }
+#series {
+  display:none;
+}
 
-  #website {
-    display:none;
-  }
+#website {
+  display:none;
+}
 
-  #profile {
-    display:none;
-  }
+#profile {
+  display:none;
+}
 
-  #logomockup {
-    display:none;
-  }
+#logomockup {
+  display:none;
+}
 
-  #restaurent {
-    display:none;
-  }
+#restaurent {
+  display:none;
+}
 
 /* Positioning text over an image */
 /* Container holding the image and the text */
@@ -141,6 +141,7 @@ div.transbox p {
   position: relative;
   text-align: center;
   color: white;
+  font-weight: 1000;
 }
 
 /* Centered text */
