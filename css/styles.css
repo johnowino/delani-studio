@@ -81,3 +81,8 @@ div.transbox p {
   .row {
     padding: 10px 10px 10px 10px;
   }
+
+  /* Hide the What we Do icons*/ 
+    .hide {
+    display: none;
+  }
