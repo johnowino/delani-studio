@@ -39,3 +39,59 @@ $(document).ready(function() {
     $("#productDescription").toggle();
   });
 });
+
+// Creatting hover effect and displaying product name //
+
+$(document).ready(function() {
+  $("#work4").hover(function() {
+    $("#black1").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work3").hover(function() {
+    $("#ontariosecurity").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work2").hover(function() {
+    $("#art").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work1").hover(function() {
+    $("#series").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work5").hover(function() {
+    $("#website").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work6").hover(function() {
+    $("#profile").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work4").hover(function() {
+    $("#black").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work7").hover(function() {
+    $("#logomockup").toggle();
+  });
+});
+
+$(document).ready(function() {
+  $("#work8").hover(function() {
+    $("#restaurent").toggle();
+  });
+});

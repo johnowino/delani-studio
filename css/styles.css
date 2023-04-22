@@ -99,3 +99,39 @@ div.transbox p {
   #productDescription {
     display:none;
   }
+
+  /* Hide the project names to allow pop-up with hover */
+  
+ 
+  #black1 {
+    display:none;
+  }
+
+  #ontariosecurity {
+    display:none;
+  }
+
+  #art {
+    display:none;
+  }
+
+  #series {
+    display:none;
+  }
+
+  #website {
+    display:none;
+  }
+
+  #profile {
+    display:none;
+  }
+
+  #logomockup {
+    display:none;
+  }
+
+  #restaurent {
+    display:none;
+  }
+
