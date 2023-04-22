@@ -67,6 +67,9 @@ div.transbox {
   /*background-color: white;*/
   border: 1px solid black;
   opacity: 0.3;
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
 }
 
 div.transbox p {
@@ -75,3 +78,6 @@ div.transbox p {
   color:white;
 }
 
+  .row {
+    padding: 10px 10px 10px 10px;
+  }
