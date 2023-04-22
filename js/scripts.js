@@ -23,19 +23,19 @@ submit.addEventListener('click', function handleClick(event) {
 
 // Toggle through What we Do section to show/hide text //
 $(document).ready(function() {
-  $("#design").click(function() {
+  $("#designicon").click(function() {
     $("#designDescription").toggle();
   });
 });
 
 $(document).ready(function() {
-  $("#development").click(function() {
+  $("#devicon").click(function() {
     $("#developmentDescription").toggle();
   });
 });
 
 $(document).ready(function() {
-  $("#productmanagement").click(function() {
+  $("#producticon").click(function() {
     $("#productDescription").toggle();
   });
 });
