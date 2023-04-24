@@ -143,10 +143,24 @@ div.transbox p {
  
 }
 
-/* Centered text */
+/* Centered text and font change*/
 .centered {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
-}
+  /*transform: translate(-50%, -50%);*/
+  color: white;
+  font-size: larger;
+  font-weight: bolder;
+  }
+
+/* change font of portfolio names*/
+#art {
+  color: white;
+  font-size: larger;
+  font-weight: bolder;
+  }
+
+  .message1 {
+    display:none;
+  }

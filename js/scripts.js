@@ -13,6 +13,7 @@ submit.addEventListener('click', function handleClick(event) {
   console.log(namesInput.value);
   console.log(emailInput.value);
   console.log(messageInput.value);
+  
 
   // 👇️ clear input field
   namesInput.value = '';
@@ -95,3 +96,13 @@ $(document).ready(function() {
     $("#restaurent").toggle();
   });
 });
+
+/* Providing pop-up response to user data submission
+$(document).ready(function() {
+  $("#blanks form").submit(function() {
+      $(".message1").append("blah blah");
+      
+
+      $(".message1").show();
+  });
+}); */
